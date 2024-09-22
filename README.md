@@ -1,1 +1,1 @@
-This repository is based on Speaker Diarization of a small audio file and then summarising it to get the overall sentiment of the conversation.<br> It is a fun project which also helps us learn about vaarious models and libraries in python.
+This repository is based on Speaker Diarization of a small audio file and then summarising it to get the overall sentiment of the conversation.<br> It is a small project which also helps us learn about various models and libraries in python.
